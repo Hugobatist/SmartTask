@@ -1,0 +1,42 @@
+[
+  {
+    "texto": "Mesclar a informação de Essencial Sazonal",
+    "prioridade": "alta",
+    "dataVencimento": "2025-12-31",
+    "concluida": false,
+    "id": 1765637777330,
+    "dataCriacao": "2025-12-13T14:56:17.330Z"
+  },
+  {
+    "texto": "Criar Lógica de Embarques.",
+    "prioridade": "alta",
+    "dataVencimento": "2026-01-05",
+    "concluida": false,
+    "id": 1765290569687,
+    "dataCriacao": "2025-12-09T14:29:29.687Z"
+  },
+  {
+    "texto": "Backend Login",
+    "prioridade": "alta",
+    "dataVencimento": "2026-01-05",
+    "concluida": false,
+    "id": 1765290535987,
+    "dataCriacao": "2025-12-09T14:28:55.987Z"
+  },
+  {
+    "texto": "Diferenciar o Showroom de Verão do Inverno",
+    "prioridade": "alta",
+    "dataVencimento": "2026-01-05",
+    "concluida": false,
+    "id": 1765290522375,
+    "dataCriacao": "2025-12-09T14:28:42.375Z"
+  },
+  {
+    "texto": "Tornar Multiloja Funcional",
+    "prioridade": "alta",
+    "dataVencimento": "2026-01-05",
+    "concluida": false,
+    "id": 1765290488430,
+    "dataCriacao": "2025-12-09T14:28:08.430Z"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "pipeline-franqueados",
+  "version": "1.0.0",
+  "description": "Pipeline de Vendas - Gestão de Franqueados",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

@@ -1,0 +1,331 @@
+[
+  {
+    "nome": "Ricardo Smukler",
+    "fase": "negociacao",
+    "tarefa": "WHATSAPP",
+    "quando": "Concluído",
+    "prioridade": "baixa",
+    "valor": 0,
+    "notas": "Gostou da Ferramenta e testou para uma loja. Entrar em contato para Colher Feedback",
+    "id": 1,
+    "dataAgendada": null
+  },
+  {
+    "nome": "Bianca",
+    "fase": "fechado",
+    "tarefa": "CONTRATO",
+    "quando": "-",
+    "dataAgendada": null,
+    "prioridade": "baixa",
+    "valor": 500,
+    "notas": "",
+    "id": 2
+  },
+  {
+    "nome": "Sheila",
+    "fase": "fechado",
+    "tarefa": "REUNIAO",
+    "quando": "05/01/2026 09:00",
+    "dataAgendada": "2026-01-05T09:00",
+    "prioridade": "alta",
+    "valor": 2500,
+    "notas": "",
+    "id": 3
+  },
+  {
+    "nome": "Debora Chadda",
+    "fase": "negociacao",
+    "tarefa": "LIGAR",
+    "quando": "Concluído",
+    "prioridade": "alta",
+    "valor": 0,
+    "notas": "Entrar em contato e colher feedback",
+    "id": 4,
+    "dataAgendada": null
+  },
+  {
+    "nome": "Felipe Nippes",
+    "fase": "reuniao",
+    "tarefa": "LIGAR",
+    "quando": "Concluído",
+    "prioridade": "media",
+    "valor": 0,
+    "notas": "",
+    "id": 5,
+    "dataAgendada": null
+  },
+  {
+    "nome": "Jun Hasegawa",
+    "fase": "prospect",
+    "tarefa": "LIGAR",
+    "quando": "Concluído",
+    "prioridade": "media",
+    "valor": 0,
+    "notas": "",
+    "id": 6,
+    "dataAgendada": null
+  },
+  {
+    "nome": "Adriana Dutra",
+    "fase": "prospect",
+    "tarefa": "LIGAR",
+    "quando": "Concluído",
+    "prioridade": "media",
+    "valor": 0,
+    "notas": "",
+    "id": 7,
+    "dataAgendada": null
+  },
+  {
+    "nome": "Renata Araxá",
+    "fase": "standby",
+    "tarefa": "REUNIAO",
+    "quando": "15/12/2025 14:00",
+    "dataAgendada": "2025-12-15T14:00",
+    "prioridade": "media",
+    "valor": 500,
+    "notas": "",
+    "id": 8
+  },
+  {
+    "nome": "Erica Mazer",
+    "fase": "contato",
+    "tarefa": "LIGAR",
+    "quando": "Concluído",
+    "prioridade": "media",
+    "valor": 0,
+    "notas": "",
+    "id": 9,
+    "dataAgendada": null
+  },
+  {
+    "nome": "Rodolfo Gobbi",
+    "fase": "pendente_pagamento",
+    "tarefa": "AGUARDANDO",
+    "quando": "Concluído",
+    "dataAgendada": null,
+    "prioridade": "baixa",
+    "valor": 1000,
+    "notas": "",
+    "id": 10
+  },
+  {
+    "id": 11,
+    "nome": "Marcelo Motta",
+    "fase": "contato",
+    "tarefa": "LIGAR",
+    "quando": "Concluído",
+    "valor": 0,
+    "prioridade": "media",
+    "notas": "",
+    "dataAgendada": null
+  },
+  {
+    "nome": "Jose Luis S Guimaraes",
+    "fase": "contato",
+    "tarefa": "LIGAR",
+    "quando": "Concluído",
+    "prioridade": "media",
+    "valor": 0,
+    "notas": "",
+    "id": 12,
+    "dataAgendada": null
+  },
+  {
+    "id": 13,
+    "nome": "Maninha",
+    "fase": "prospect",
+    "tarefa": "LIGAR",
+    "quando": "Concluído",
+    "valor": 0,
+    "prioridade": "baixa",
+    "notas": "",
+    "dataAgendada": null
+  },
+  {
+    "nome": "Patricia",
+    "fase": "negociacao",
+    "tarefa": "REUNIAO",
+    "quando": "Concluído",
+    "prioridade": "media",
+    "valor": 0,
+    "notas": "",
+    "id": 14,
+    "dataAgendada": null
+  },
+  {
+    "nome": "Jose Roberto Alves",
+    "fase": "contato",
+    "tarefa": "LIGAR",
+    "quando": "Concluído",
+    "prioridade": "baixa",
+    "valor": 0,
+    "notas": "",
+    "id": 15,
+    "dataAgendada": null
+  },
+  {
+    "id": 16,
+    "nome": "Eduardo Lasevitch",
+    "fase": "perdido",
+    "tarefa": "FOLLOWUP",
+    "quando": "Sem resposta",
+    "valor": 0,
+    "prioridade": "baixa",
+    "notas": ""
+  },
+  {
+    "nome": "Renato Vieira",
+    "fase": "fechado",
+    "tarefa": "FOLLOWUP",
+    "quando": "Sem resposta",
+    "dataAgendada": null,
+    "prioridade": "alta",
+    "valor": 1250,
+    "notas": "",
+    "id": 17
+  },
+  {
+    "id": 18,
+    "nome": "Cristiano Vix",
+    "fase": "perdido",
+    "tarefa": "FOLLOWUP",
+    "quando": "Sem resposta",
+    "valor": 0,
+    "prioridade": "baixa",
+    "notas": ""
+  },
+  {
+    "id": 19,
+    "nome": "Leonardo Sobral",
+    "fase": "contato",
+    "tarefa": "FOLLOWUP",
+    "quando": "Sem resposta",
+    "valor": 0,
+    "prioridade": "baixa",
+    "notas": ""
+  },
+  {
+    "id": 20,
+    "nome": "Marcelo Amaral",
+    "fase": "negociacao",
+    "tarefa": "FOLLOWUP",
+    "quando": "Sem resposta",
+    "valor": 0,
+    "prioridade": "baixa",
+    "notas": ""
+  },
+  {
+    "id": 21,
+    "nome": "Tais Santieri",
+    "fase": "fechado",
+    "tarefa": "CONTRATO",
+    "quando": "Concluído",
+    "valor": 2000,
+    "prioridade": "baixa",
+    "notas": ""
+  },
+  {
+    "nome": "Carol",
+    "fase": "fechado",
+    "tarefa": "CONTRATO",
+    "quando": "Concluído",
+    "dataAgendada": null,
+    "prioridade": "baixa",
+    "valor": 1200,
+    "notas": "",
+    "id": 22
+  },
+  {
+    "id": 23,
+    "nome": "Fabinho",
+    "fase": "prospect",
+    "tarefa": "AGUARDANDO",
+    "quando": "Definir",
+    "valor": 0,
+    "prioridade": "baixa",
+    "notas": ""
+  },
+  {
+    "id": 24,
+    "nome": "Izabia",
+    "fase": "prospect",
+    "tarefa": "AGUARDANDO",
+    "quando": "Definir",
+    "valor": 0,
+    "prioridade": "baixa",
+    "notas": ""
+  },
+  {
+    "id": 25,
+    "nome": "Luiz Carlos",
+    "fase": "prospect",
+    "tarefa": "AGUARDANDO",
+    "quando": "Definir",
+    "valor": 0,
+    "prioridade": "baixa",
+    "notas": ""
+  },
+  {
+    "id": 26,
+    "nome": "Carlinhos",
+    "fase": "prospect",
+    "tarefa": "AGUARDANDO",
+    "quando": "Definir",
+    "valor": 0,
+    "prioridade": "baixa",
+    "notas": ""
+  },
+  {
+    "id": 27,
+    "nome": "Zé Eduardo",
+    "fase": "prospect",
+    "tarefa": "AGUARDANDO",
+    "quando": "Definir",
+    "valor": 0,
+    "prioridade": "baixa",
+    "notas": ""
+  },
+  {
+    "nome": "Robson Mato Grosso",
+    "fase": "negociacao",
+    "tarefa": "AGUARDANDO",
+    "quando": "Definir",
+    "prioridade": "baixa",
+    "valor": 0,
+    "notas": "",
+    "id": 29
+  },
+  {
+    "nome": "Moninha",
+    "fase": "fechado",
+    "tarefa": "AGUARDANDO",
+    "quando": "-",
+    "prioridade": "baixa",
+    "valor": 1500,
+    "notas": "",
+    "id": 1764940089870
+  },
+  {
+    "nome": "Ana Lucia Gurian",
+    "fase": "fechado",
+    "tarefa": "REUNIAO",
+    "quando": "10/12/2025 14:00",
+    "dataAgendada": "2025-12-10T14:00",
+    "prioridade": "baixa",
+    "valor": 500,
+    "notas": "",
+    "id": 1765289783317
+  },
+  {
+    "nome": "Alexandre Lima",
+    "fase": "fechado",
+    "tarefa": "CONTRATO",
+    "quando": "-",
+    "dataAgendada": null,
+    "prioridade": "alta",
+    "valor": 23500,
+    "notas": "",
+    "id": 1765290455075
+  }
+]
